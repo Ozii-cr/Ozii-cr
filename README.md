@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I also happen to be an artist**
 
-# Blogs posts
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
