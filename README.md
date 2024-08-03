@@ -2,12 +2,6 @@
 <h1 align="center">Hi, I'm Richard</h1>
 <h3 align="center">A passionate cloud and DevOps engineer from Nigeria</h3>
 
-- 💬 Ask me about **cloud and devops**
-
-- 📫 How to reach me **coker1229@gmail.com**
-
-- ⚡ Fun fact **I also happen to be an artist**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
