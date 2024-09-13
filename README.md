@@ -1,5 +1,5 @@
 <!-- [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif)]()-->
-<h1 align="center">Hi, I'm Richard</h1>
+<h2 align="center">Hi, I'm Richard :)</h2>
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
