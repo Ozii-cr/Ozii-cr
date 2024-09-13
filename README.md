@@ -1,8 +1,8 @@
 <!-- [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif)]()-->
 <h1 align="center">Hi, I'm Richard</h1>
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<h3 align="center">Languages and Tools:</h3>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
